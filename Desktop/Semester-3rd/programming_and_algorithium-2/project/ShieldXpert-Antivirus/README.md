@@ -1,11 +1,6 @@
 
-# **INTRODUCING ATARBALS-MORDEN-ANTIVIRUS 1.0.2.12**
+# **INTRODUCING ShieldXpert Modern Sntivirus**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-## Note:
-### In Couple of months or days we will be releasing ProtecTKers V1  Antivirus which is will be nextGEN of AtarBals with Real Antivirus Engine. And will continue supporting this Repository. And couple more month later we will introduce ProtecTaS W8 Anti-Virus with either use Qtpy or Pydesigner, so we will be discontinuing this platform of design and Tkinter. ProtecTaS W8 Will be faster and better. And it will give you nearly same experience of Mcafee, Avast Antivirus. STAY TUNDED
 
 
 ## This is official main version of Atarbals antivirus. 
